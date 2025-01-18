@@ -1,0 +1,15 @@
+{
+    "char_count_check": {
+        "enabled": false,
+        "description": "This is the default description.",
+        "min_length": 0,
+        "max_length": 10000
+    },
+    "substitution_pairs": {
+        "substitution_list": [
+            {
+                "zzz": "xxx"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "char_count_check": {
+        "min_length": 1950,
+        "max_length": 2500
+    },
+    "forbidden_words_check": {
+        "forbidden_words": [
+            "금지어1",
+            "금지어2"
+        ]
+    },
+    "substitution_pairs": {
+        "substitution_list": [
+            {
+                "A": "B"
+            },
+            {
+                "C": "D"
+            },
+            {
+                "대체어": "대체어 테스트"
+            }
+        ]
+    }
+}

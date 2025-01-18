@@ -1,0 +1,13 @@
+{
+    "model_config": {
+        "model": "ft:gpt-3.5-turbo-1106:personal::8iyTAan8",
+        "temperature": "2.0",
+        "max_tokens": "2048",
+        "top_p": "0.48",
+        "frequency_penalty": "0.1",
+        "presence_penalty": "0.82"
+    },
+    "prompts": [
+        "법무법인 마중의 가이드라인을 따라서 '{키워드1}'에 관하여 글을 작성해줘. 그리고 다음의 규칙들을 준수해줘. 법률전문가 얘기는 마지막 문단에만 써. 쓸 수 있는 최대 길이로 작성해."
+    ]
+}
