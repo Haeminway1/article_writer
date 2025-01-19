@@ -6,7 +6,7 @@ import json
 import time
 
 from openai import OpenAI
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='YOUR API KEY')
 
 def load_json_data(model_name):
     base_dir = os.path.dirname(os.path.abspath(__file__))
